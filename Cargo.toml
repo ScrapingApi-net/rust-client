@@ -1,0 +1,12 @@
+[package]
+name = "scrapingapi"
+description = "The official rust client of ScrapingApi, website scraping API."
+license = "MIT/Apache-2.0"
+version = "0.1.4"
+readme = "README.md"
+documentation = "https://scrapingapi.net/documentation"
+homepage = "https://scrapingapi.net"
+authors = ["Timothée Jeannin <timojeajea@gmail.com>"]
+edition = "2018"
+
+[dependencies]
